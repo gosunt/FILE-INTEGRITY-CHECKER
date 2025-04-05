@@ -29,3 +29,6 @@
 ## All important events — such as changes, warnings, threats, or errors — are written to an alerts.log file. These logs include timestamps and the severity of the event (e.g., info, alert, error). This allows users and administrators to easily track what’s happening in the system.
 
 ## Finally, if the user tries to stop the script by pressing Ctrl+C, it catches that and asks if you want to continue monitoring or exit. If any unexpected errors happen, it will also restart the monitoring automatically after a short delay. This makes the tool reliable for long-term use without needing someone to keep restarting it manually.
+
+#OUTPUT
+![Image](https://github.com/user-attachments/assets/1d207dd2-92f9-4dc7-b83b-f0cbf83f3ab0)
